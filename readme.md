@@ -12,5 +12,6 @@
 		2. Then, it calculates the homogenous matrix by multiplying the transformation matrices and displays it according to different configurations mentioned in the report.
 
 ###	Notes:
-		1. For showing the super and subscript, Unicodes are used.
+		1. Calculations and results are shown in the pdf.
+		2. For showing the super and subscript, Unicodes are used.
 	
